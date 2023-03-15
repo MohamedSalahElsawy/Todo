@@ -71,3 +71,9 @@ body{
 .countainer .taskes .task span:hover{
         text-shadow: 1px 1px #CD0404;
 }
+@media (max-width: 567px) {
+    .countainer{
+        width: 100%;
+        padding: 0 5px;
+    }
+}
